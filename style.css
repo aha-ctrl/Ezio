@@ -1,0 +1,17 @@
+.cub{
+    margin-top: 40vh;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin-left: 80vh;
+}
+.text{
+    font-size: 300px;
+    font-weight: 600px;
+    width: 16000px;
+    
+}
+body{
+    height: 250vh;
+    overflow-x: hidden;
+}
